@@ -10,6 +10,8 @@ let app = new Vue({
             {title: "blog", languages: ["HTML", "CSS", "PHP"]},
             {title: "automation script", languages: ["Python"]},
             {title: "eCommerce", languages: ["HTML", "CSS", "PHP"]},
-        ]
+        ],
+        dynamicId : "projects_section",
+        dynamicClass : "projects"
     }
 })
