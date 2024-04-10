@@ -2,6 +2,7 @@ let app = new Vue({
 
     el: "#app",
     data: {
-       disabled: true
+       attribute_name: 'href',
+       url: 'https://fabiopacifici.com'
     }
 })
